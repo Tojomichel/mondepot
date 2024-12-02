@@ -1,7 +1,7 @@
 Bonjour Samir
-<<<<<<< HEAD
+
 
 Conflit + Michel
-=======
+
 Au revoir Samir
->>>>>>> 0e70fc9568c69d325a791c1352b359513953325b
+
